@@ -1,0 +1,2 @@
+# rust-snake
+Practicing Rust
